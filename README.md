@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Turning+data+into+meaningful+insights.;Python+%7C+SQL+%7C+Power+BI;Learning+%7C+Building+%7C+Exploring;Future+Data+Scientist+%F0%9F%9A%80" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=jagrutpawar0901-tech&style=flat-square&color=00D9FF&label=PROFILE+VIEWS"/>
-
 </div>
 
 ---
@@ -127,29 +123,43 @@ I enjoy working with data, solving problems, creating visualizations and explori
 
 ### 🚀 Featured Projects
 
-<p align="center">
+#### 📈 Indian Stock Analysis
 
-<a href="https://github.com/jagrutpawar0901-tech">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=YOUR_REPO_1&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
+Stock market analysis and dashboard project focused on exploring Indian stock market data.
+
+<a href="https://github.com/jagrutpawar0901-tech/Indian-Stock-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=Indian-Stock-Analysis&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
 </a>
 
-<a href="https://github.com/jagrutpawar0901-tech">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=YOUR_REPO_2&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
+---
+
+#### 🏢 Top 10 IT Companies in India
+
+A data-focused project exploring the **Top 10 IT Companies in India**.
+
+<a href="https://github.com/jagrutpawar0901-tech/TOP-10-IT-Companies-in-India">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=TOP-10-IT-Companies-in-India&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
 </a>
 
-</p>
+---
 
-<p align="center">
+#### 🔗 BPS Connect
 
-<a href="https://github.com/jagrutpawar0901-tech">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=YOUR_REPO_3&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
+A project focused on building and exploring a digital connection platform.
+
+<a href="https://github.com/jagrutpawar0901-tech/BPS-connect">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=BPS-connect&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
 </a>
 
-<a href="https://github.com/jagrutpawar0901-tech">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=YOUR_REPO_4&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
-</a>
+---
 
-</p>
+#### ☕ Coffee Bar Analysis
+
+Data analysis project exploring coffee-bar related data using Python and Jupyter Notebook.
+
+<a href="https://github.com/jagrutpawar0901-tech/coffee_bar_analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=coffee_bar_analysis&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
+</a>
 
 ---
 
@@ -198,7 +208,7 @@ I'm focused on strengthening my fundamentals, building projects and turning what
 
 ---
 
-<p align="center">
+<div align="center">
 
 <i>Professional daydreamer, part-time overthinker.</i>
 
@@ -210,4 +220,4 @@ I'm focused on strengthening my fundamentals, building projects and turning what
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,50:071A2B,100:00D9FF"/>
 
-</p>
+</div>
