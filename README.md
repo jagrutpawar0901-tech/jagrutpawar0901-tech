@@ -1,365 +1,213 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=JAGRUT%20PAWAR&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE%20%7C%20TECHNOLOGY&descAlignY=55&descSize=18&color=0:050B14,50:001B2E,100:000000"/>
+# Hi 👋, I'm Jagrut Pawar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+Jagrut.exe...;Data+Analytics+%7C+Data+Science;Python+%7C+SQL+%7C+Power+BI;Turning+Raw+Data+Into+Insights;Building+The+Future+With+Code+%F0%9F%9A%80;SYSTEM+STATUS%3A+ONLINE+%E2%9C%85"/>
+### Data Analytics • Data Science • Computer Science
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Turning+data+into+meaningful+insights.;Python+%7C+SQL+%7C+Power+BI;Learning+%7C+Building+%7C+Exploring;Future+Data+Scientist+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=jagrutpawar0901-tech&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=jagrutpawar0901-tech&style=flat-square&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<div align="center">
+### 👨‍💻 About Me
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         J A G R U T   P A W A R                    ║
-║                                                                      ║
-║  > SYSTEM       : ONLINE                                            ║
-║  > ROLE         : DATA ANALYTICS & DATA SCIENCE ENTHUSIAST           ║
-║  > EDUCATION    : COMPUTER SCIENCE STUDENT                          ║
-║  > INSTITUTE    : SYMBIOSIS INSTITUTE OF TECHNOLOGY, NAGPUR         ║
-║  > CURRENT_MODE : BUILDING                                          ║
-║  > MISSION      : TURN DATA INTO MEANINGFUL INSIGHTS                ║
-║                                                                      ║
-║  [ PYTHON ] [ SQL ] [ POWER BI ] [ EXCEL ] [ MACHINE LEARNING ]     ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+I'm a Computer Science student at **Symbiosis Institute of Technology, Nagpur**, passionate about Data Analytics, Data Science and technology.
 
-</div>
+I enjoy working with data, solving problems, creating visualizations and exploring how technology can turn raw information into meaningful insights.
 
-# `> WHO_AM_I.exe`
-
-<table>
-<tr>
-<td width="55%">
-
-### 👨‍💻 `ABOUT_ME`
-
-I'm a **Computer Science student** passionate about:
-
-* 📊 Data Analytics
-* 🧠 Data Science
-* 🐍 Python
-* 🗄️ SQL
-* 📈 Data Visualization
-* 📊 Power BI
-* 🤖 Machine Learning & AI
-* 💡 Problem Solving
-
-I enjoy transforming **raw data → meaningful insights → real-world solutions**.
-
-Currently building projects, learning new technologies and improving my analytical and programming skills.
-
-</td>
-
-<td width="45%">
-
-```text
-┌─────────────────────────────┐
-│       SYSTEM PROFILE        │
-├─────────────────────────────┤
-│                             │
-│  USER      : JAGRUT         │
-│  STATUS    : ● ONLINE       │
-│  MODE      : DEVELOPER      │
-│                             │
-│  LEARNING  : ████████░░ 80% │
-│  BUILDING  : ███████░░░ 70% │
-│  ANALYTICS : ████████░░ 80% │
-│  AI        : █████░░░░░ 50% │
-│                             │
-│  ACCESS    : GRANTED ✓      │
-│                             │
-└─────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+- 🎓 Computer Science Student
+- 📊 Data Analytics & Data Science Enthusiast
+- 🐍 Learning Python & SQL
+- 📈 Exploring Data Visualization
+- 🤖 Exploring Machine Learning & AI
+- 💡 Interested in Problem Solving
+- 🚀 Building real-world projects
 
 ---
 
-# `> CURRENT_PROTOCOL`
+### ⚡ What I'm Up To
 
-<div align="center">
-
-| ⚡ STATUS | CURRENT OPERATION                            |
-| -------- | -------------------------------------------- |
-| 🔭       | Working on **Data Analytics Projects**       |
-| 🌱       | Learning **Python, SQL, Excel & Power BI**   |
-| 👯       | Open to **Data Analysis & Python Projects**  |
-| 🤝       | Exploring **SQL, Python & Machine Learning** |
-| 📈       | Building **Data Visualization Dashboards**   |
-| 🤖       | Exploring **Machine Learning & AI**          |
-| 💻       | Building **Real-World Projects**             |
-
-</div>
+- 🔭 Currently working on **Data Analytics Projects**
+- 🌱 Currently learning **Python, SQL, Excel & Power BI**
+- 👯 Looking to collaborate on **Data Analysis & Python Projects**
+- 🤝 Exploring **Machine Learning**
+- 📊 Building **Data Visualization Dashboards**
+- 💻 Working on practical projects
+- 🎯 Working towards becoming a **Data Analyst / Data Scientist**
 
 ---
 
-# `> TECH_STACK`
+### 🛠️ Languages & Tools
 
-### `PROGRAMMING`
+<p align="left">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,javascript,ruby" />
-</p>
-
-### `DATA / ANALYTICS`
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-00F7FF?style=for-the-badge&logo=mysql&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-00F7FF?style=for-the-badge&logo=microsoftexcel&logoColor=black"/>
-<img src="https://img.shields.io/badge/PowerBI-00F7FF?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,c,javascript,ruby,mysql,git,github,figma,arduino,jupyter" />
 
 </p>
 
-<p align="center">
+### Data & Analytics
 
-<img src="https://img.shields.io/badge/Pandas-001B2E?style=for-the-badge&logo=pandas&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/NumPy-001B2E?style=for-the-badge&logo=numpy&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Matplotlib-001B2E?style=for-the-badge&logo=python&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Seaborn-001B2E?style=for-the-badge&logo=python&logoColor=00F7FF"/>
+<p align="left">
 
-</p>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=matplotlib&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=flat-square&logo=python&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=00D9FF"/>
 
-### `TOOLS`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,figma,arduino,jupyter,mysql" />
 </p>
 
 ---
 
-# `> GITHUB_CORE_STATS`
+### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jagrutpawar0901-tech&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050B14&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jagrutpawar0901-tech&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrutpawar0901-tech&layout=compact&langs_count=8&hide_border=true&bg_color=050B14&title_color=00F7FF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrutpawar0901-tech&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
 
-</div>
-
----
-
-# `> CONTRIBUTION_STREAK`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jagrutpawar0901-tech&hide_border=true&background=050B14&ring=00F7FF&fire=00FFFF&currStreakLabel=00F7FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
-
-</div>
+</p>
 
 ---
 
-# `> CONTRIBUTION_ACTIVITY`
+### 🔥 Contribution Streak
 
-<div align="center">
+<p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jagrutpawar0901-tech&bg_color=050B14&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=JAGRUT%20PAWAR%20-%20CONTRIBUTION%20ACTIVITY"/>
+<img src="https://streak-stats.demolab.com?user=jagrutpawar0901-tech&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681"/>
 
-</div>
-
----
-
-# `> 3D_CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jagrutpawar0901-tech/jagrutpawar0901-tech/main/profile-3d-contrib/profile-night-view.svg" width="100%"/>
-
-</div>
-
-> 🧊 **3D contribution visualization — generated automatically from your GitHub activity.**
+</p>
 
 ---
 
-# `> CONTRIBUTION_HEATMAP`
+### 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
 
-<img src="https://ghchart.rshah.org/00F7FF/jagrutpawar0901-tech" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagrutpawar0901-tech&bg_color=00000000&color=8B949E&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# `> COMMIT_ANALYTICS`
+### 🧊 3D Contribution Graph
 
-<div align="center">
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/jagrutpawar0901-tech/jagrutpawar0901-tech/main/profile-3d-contrib/profile-night-view.svg" width="90%"/>
+
+</p>
+
+---
+
+### 💻 GitHub Overview
+
+<p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagrutpawar0901-tech&theme=github_dark" width="100%"/>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagrutpawar0901-tech&theme=github_dark"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jagrutpawar0901-tech&theme=github_dark"/>
 
-</div>
+</p>
 
 ---
 
-# `> FEATURED_PROJECTS`
+### 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🚀 `PROJECT_01`
+<p align="center">
 
 <a href="https://github.com/jagrutpawar0901-tech">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true&bg_color=050B14&title_color=00F7FF"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=YOUR_REPO_1&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
 </a>
-
-</td>
-
-<td width="50%">
-
-### ⚡ `PROJECT_02`
 
 <a href="https://github.com/jagrutpawar0901-tech">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true&bg_color=050B14&title_color=00F7FF"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=YOUR_REPO_2&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
 </a>
 
-</td>
+</p>
 
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🧠 `PROJECT_03`
+<p align="center">
 
 <a href="https://github.com/jagrutpawar0901-tech">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=YOUR_REPOSITORY_3&theme=tokyonight&hide_border=true&bg_color=050B14&title_color=00F7FF"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=YOUR_REPO_3&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
 </a>
-
-</td>
-
-<td width="50%">
-
-### 🔥 `PROJECT_04`
 
 <a href="https://github.com/jagrutpawar0901-tech">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=YOUR_REPOSITORY_4&theme=tokyonight&hide_border=true&bg_color=050B14&title_color=00F7FF"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jagrutpawar0901-tech&repo=YOUR_REPO_4&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=8B949E"/>
 </a>
 
-</td>
-
-</tr>
-</table>
-
-</div>
+</p>
 
 ---
 
-# `> SKILL_PROGRESS`
+### 🧠 Currently Learning
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     SKILL MATRIX                             │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  PYTHON             ████████████████████░░░░   LEARNING      │
-│  SQL                ███████████████████░░░░░   LEARNING      │
-│  DATA ANALYTICS     ███████████████████░░░░░   BUILDING      │
-│  POWER BI           █████████████████░░░░░░░   BUILDING      │
-│  VISUALIZATION      ████████████████░░░░░░░░   EXPLORING     │
-│  MACHINE LEARNING   ████████████░░░░░░░░░░░░   EXPLORING     │
-│  ARTIFICIAL INTEL.  ██████████░░░░░░░░░░░░░░   EXPLORING     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+`Python` · `SQL` · `Power BI` · `Data Analytics` · `Data Visualization` · `Machine Learning` · `AI`
+
+I'm focused on strengthening my fundamentals, building projects and turning what I learn into practical applications.
 
 ---
 
-# `> 2026_OBJECTIVES`
+### 🎯 2026 Goals
 
-```text
-[01] ████████████████████  MASTER PYTHON + SQL
-
-[02] ██████████████████░░  ADVANCED DATA ANALYTICS
-
-[03] ████████████████░░░░  POWER BI DASHBOARDS
-
-[04] ██████████████░░░░░░  DATA VISUALIZATION
-
-[05] ████████████░░░░░░░░  MACHINE LEARNING
-
-[06] ██████████░░░░░░░░░░  ARTIFICIAL INTELLIGENCE
-
-[07] █████████████████░░░  REAL-WORLD PROJECTS
-```
+- 📊 Build stronger Data Analytics projects
+- 🐍 Become more confident with Python
+- 🗄️ Strengthen SQL and database skills
+- 📈 Create professional Power BI dashboards
+- 🤖 Learn Machine Learning fundamentals
+- 🧠 Explore Artificial Intelligence
+- 🚀 Build projects that solve real-world problems
+- 🌱 Keep learning and experimenting
 
 ---
 
-# `> GITHUB_SNAKE`
+### 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
 
-<img src="https://raw.githubusercontent.com/jagrutpawar0901-tech/jagrutpawar0901-tech/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-# `> CONNECT`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jagrut-pawar/">
-<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF"/>
 </a>
 
 <a href="https://www.instagram.com/_jaggu.pawar/">
-<img src="https://img.shields.io/badge/INSTAGRAM-00F7FF?style=for-the-badge&logo=instagram&logoColor=black"/>
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=00D9FF"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/jagrutpawar1962">
-<img src="https://img.shields.io/badge/HACKERRANK-00F7FF?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-0D1117?style=flat-square&logo=hackerrank&logoColor=00D9FF"/>
 </a>
 
 <a href="mailto:jagrutpawar1962@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                 SYSTEM STATUS : ONLINE                     ║
-║                                                            ║
-║       > KEEP LEARNING                                      ║
-║       > KEEP BUILDING                                      ║
-║       > KEEP SHIPPING                                      ║
-║       > KEEP INNOVATING                                    ║
-║                                                            ║
-║                 ACCESS GRANTED ✓                           ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<i>Professional daydreamer, part-time overthinker.</i>
 
-### `⚡ DATA • CODE • INTELLIGENCE • INNOVATION ⚡`
+<br><br>
 
-**Professional daydreamer, part-time overthinker. 😎**
+<sub>Learning • Building • Exploring • Improving</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:001B2E,100:00F7FF"/>
+<br><br>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,50:071A2B,100:00D9FF"/>
+
+</p>
